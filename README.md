@@ -11,3 +11,4 @@ Repository to track the changelog of HomeAssistant
 - Update to HomeAssistant core 2025.3.3
 
 # Bugfixes
+- AC checks if we are home before being activated
