@@ -3,6 +3,7 @@ Repository to track the changelog of HomeAssistant
 
 # New Functionalities
 - New Changelog and message to track updates on HomeAssistant
+- New Camera added (Street_Door) - No logic applied
 
 # Improvements
 - Added colors and icons to phone Notifications
