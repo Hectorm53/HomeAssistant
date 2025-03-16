@@ -8,4 +8,4 @@ Repository to track the changelog of HomeAssistant
 - Added colors and icons to phone Notifications
 - Alarm automatically armed when detecting both users are away
 
-- #Bugfixes
+# Bugfixes
