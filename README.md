@@ -1,4 +1,4 @@
-# HomeAssistant V1.1
+# HomeAssistant V1.1.0
 Repository to track the changelog of HomeAssistant
 
 # New Functionalities
