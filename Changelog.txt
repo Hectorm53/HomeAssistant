@@ -1,0 +1,9 @@
+V1.1.0
+
+[New] New Changelog and phone notification to track updates on HomeAssistant
+[New] New Camera added (Street_Door) - No logic applied
+[New] New Urgent Message functionality (added below the TV remote controller)
+[Improved] Added colors and icons to phone Notifications
+[Improved] Alarm automatically armed when detecting both users are away
+[Improved] Update to HomeAssistant core 2025.3.3
+[Bugfix] AC checks if we are home before being automatically activated
