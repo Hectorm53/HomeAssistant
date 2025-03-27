@@ -1,3 +1,8 @@
+V1.2.0
+[New] Adaptations required for new HW architecture
+[Bugfix] Recovery of updates performed in v1.1.1
+
+
 V1.1.1
 
 [New] New Camera added (Pool Cam) - No logic applied
