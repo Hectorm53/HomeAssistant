@@ -1,4 +1,4 @@
-# HomeAssistant V1.2
+# HomeAssistant V1.2.1
 
 # New Functionalities
 - Added values for solar daily production (Produced Imported Exported Balance)
