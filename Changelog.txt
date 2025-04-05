@@ -1,10 +1,22 @@
+V1.2.1
+[New] Added values for solar daily production (Produced Imported Exported Balance)
+[New] Added values for solar Monthly production (Imported Exported Balance)
+[New] Person detection added to Pool Cam
+[New] Porch light Added
+[New] Added a quick activate/deactivate automation section (Shortcut)
+[Improved] Modified and aligned Camera phone notifications
+[Improved] Modified solar chart using: mini-graph-card
+[Improved] Update to HomeAssistant core 2025.4.1
+[Bugfix] Corrected problem causing Energy to grid and from grid values to be 0 when in error.
+
+
+
 V1.2.0
 [New] Adaptations required for new HW architecture
 [Bugfix] Recovery of updates performed in v1.1.1
 
 
 V1.1.1
-
 [New] New Camera added (Pool Cam) - No logic applied
 [Improved] Update to HomeAssistant core 2025.3.3
 [Bugfix] GX02 removed
@@ -12,8 +24,8 @@ V1.1.1
 [Bugfix] 15' boiler notice automation updated to new smart plug.
 [Bugfix] Performance issues of the raspberry when viewing multiple cameras
 
-V1.1.0
 
+V1.1.0
 [New] New Changelog and phone notification to track updates on HomeAssistant
 [New] New Camera added (Street_Door) - No logic applied
 [New] New Urgent Message functionality (added below the TV remote controller)
