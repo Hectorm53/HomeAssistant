@@ -1,16 +1,24 @@
-# HomeAssistant V1.2.1
+# HomeAssistant V1.3.0
 
 # New Functionalities
-- Added values for solar daily production (Produced Imported Exported Balance)
-- Added values for solar Monthly production (Imported Exported Balance)
-- Person detection added to Pool Cam
-- Porch light Added
-- Added a quick activate/deactivate automation section (Shortcut)
+- New Boiler automation based on a daily schedule
+- Xiaomi vacuum cleaner integrated in HA
+- Added Backyard light
+- New Alarmo modes
+- Videos automatically updated to google drive and removed when older than 3 days
+- New info notification (configurable) when washing machine has ended
 
 # Improvements
-- Modified and aligned Camera phone notifications
-- Modified solar chart using: mini-graph-card
-- Update to HomeAssistant core 2025.4.1
+- Update to HomeAssistant core 2025.10.4
+- Changed the solar production graph so that it reflects only 18h
+- Video quality improved to HD.
+- Beelink automatically starts when power supply back on
+- Zigbee stability
+- Boiler timings improved
+- Improved disarming of the Alarm
+- Boiler not turning on when away
 
 # Bugfixes
-- Corrected problem causing Energy to grid and from grid values to be 0 when in error.
+- locate mobile phone updated to New phones
+- New solution to calculate Daily and Monthly balance of the solar production.
+
