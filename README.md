@@ -7,6 +7,7 @@
 - New Alarmo modes
 - Videos automatically updated to google drive and removed when older than 3 days
 - New info notification (configurable) when washing machine has ended
+- Automatic Blinds up on sunrise
 
 # Improvements
 - Update to HomeAssistant core 2025.10.4
