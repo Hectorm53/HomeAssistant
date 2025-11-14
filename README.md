@@ -14,8 +14,8 @@
 - Changed the solar production graph so that it reflects only 18h
 - Video quality improved to HD.
 - Beelink automatically starts when power supply back on
-- Zigbee stability
-- Boiler timings improved
+- Zigbee stability improved
+- Boiler timings adjusted
 - Improved disarming of the Alarm
 - Boiler not turning on when away
 
